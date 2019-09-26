@@ -1,0 +1,12 @@
+.parent {
+  padding: 10px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+span {
+  margin: 0 10px;
+}
+button {
+  margin: 0 10px;
+}
